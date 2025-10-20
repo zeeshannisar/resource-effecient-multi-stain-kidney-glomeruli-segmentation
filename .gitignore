@@ -1,0 +1,16 @@
+*.h5
+*.hdf5
+
+*.idea
+
+downstream_tasks/udagan/slurm/baseline_udagan_script
+downstream_tasks/udagan/slurm/finetune_udagan_script
+downstream_tasks/udagan/slurm/fixedfeatures_udagan_script
+downstream_tasks/udagan/slurm/rename_models_script
+
+downstream_tasks/unet/apply_unet
+downstream_tasks/unet/baseline_unet/slurm
+downstream_tasks/unet/unet_with_hr-cs-co/slurm
+downstream_tasks/unet/unet_with_simclr_and_byol/slurm
+
+generate_qualitative_results
